@@ -44,12 +44,12 @@ python3 GymLytics.py --type pushup --source resources/push_aks.mov
 
 ### Push ups
 <div align="center">
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/push.gif" width=800>
+<img src="https://github.com/manishaak2025/BLOB/blob/master/push.gif" width=800>
 </div>
 
 ### Squats
 <div align="center">
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/gym_squats.gif" width=400>
+<img src="https://github.com/manishaak2025/BLOB/blob/master/gym_squats.gif" width=400>
 </div>
 
 
