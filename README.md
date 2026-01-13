@@ -40,20 +40,6 @@ If you face any problem, kindly raise an issue
 python3 GymLytics.py --type pushup --source resources/push_aks.mov
 ```
 
-## Results 📊
-
-### Push ups
-<div align="center">
-<img src="https://github.com/manishaak2025/BLOB/blob/master/push.gif" width=800>
-</div>
-
-### Squats
-<div align="center">
-<img src="https://github.com/manishaak2025/BLOB/blob/master/gym_squats.gif" width=400>
-</div>
-
-
-
 
 ## References 🔱
  
